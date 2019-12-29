@@ -8,6 +8,7 @@ someone else did some changes here.
 And, that's disappointing.
 cause I don'tknow how to deal with it.
 
+<<<<<<< HEAD
 
 ok, Now I know how to deal with this task..
 let's see if i amm commiting a lot of changes from my current branch.
@@ -18,3 +19,10 @@ my second commit goes here..
 
 my third commit goes here..
 .
+=======
+from server commit 1
+
+from server commit 2
+
+from server commit 3
+>>>>>>> 279d51da1db230c181e1ccf294aae8f020d47677
